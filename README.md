@@ -13,73 +13,29 @@
 </p>
 <img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🎓 I'm currently pursuing B.Tech degree in Computer Science with specialization in Information Security Engineering from VIT Vellore.
-  
-- 👯 I’m looking forward to build products that truly shape this world.
-  
-- 📚 I’m currently exploring **Web Developement**
-  
-- 💬 Ask me about **Webdev, Python, Kali Linux, C and C++ .**
-
-- ⚡ Fun fact: I can hack your wifi and block you from accesing your network connection. 
-  
-- 😊 I like working with **Canva,Photoshop, Illustrator and Figma for UI/UX** 
-
-- 📫 How to reach me **spshantanurick@gmail.com**
 
 
+# 💫 About Me:
+🎓 I'm currently pursuing B.Tech degree in Computer Science with specialization in Information Security Engineering from VIT Vellore.<br><br>👯 I’m looking forward to build products that truly shape this world.<br><br>📚 I’m currently exploring Web Developement<br><br>💬 Ask me about Webdev, Python, Kali Linux, C and C++ .<br><br>⚡ Fun fact: I can hack your wifi and block you from accesing your network connection.<br><br>😊 I like working with Canva,Photoshop, Illustrator and Figma for UI/UX<br><br>📫 How to reach me spshantanurick@gmail.com
 
 
-</br>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shantanu.patra.988) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shantanu_rick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shantanu-patra) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@spshantanurick) 
 
-<h3 align="left">Connect with me:</h3>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shantanu-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shantanu-29&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shantanu-29&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://twitter.com/Shantanu_29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shantanu_profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shantanu-patra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreya--agrawal" height="30" width="40" /></a>
-<a href="https://fb.com/shantanu.patra.988" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shantanu_profile" height="30" width="40" /></a>
-<a href="https://instagram.com/shantanu_rick" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shantanu_profile" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/shantanu_29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shantanu_profile" height="30" width="40" /></a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shantanu-29&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.illustrator.com/en" target="_blank">  <a href="https://getbootstrap.com" target="_blank"> 
-  <br>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br/>
-
-----------------------------------------------------------
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<p align=center>
-<!--   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya241&theme=react&border=61dafb&hide_border=true" alt="Shreya241" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Shreya241&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div> -->
-<!--   <br><br><br><br><br><br><br><br><br> -->
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya241&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-<h2 align="center">🏆 Profile Trophy 🏆</h2>
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=Shreya241&column=8&theme=onedark&no-frame=true"/>
-</a>
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
